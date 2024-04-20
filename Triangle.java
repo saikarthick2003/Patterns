@@ -16,3 +16,11 @@ public class Triangle {
         
     }
 }
+/*output:
+              *             
+          *  *  *          
+       *  *  *  *  *       
+    *  *  *  *  *  *  *    
+ *  *  *  *  *  *  *  *  * 
+ 
+ */
